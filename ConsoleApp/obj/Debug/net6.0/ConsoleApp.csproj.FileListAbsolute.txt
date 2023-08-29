@@ -12,3 +12,17 @@ C:\Users\javier_castro\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net6.0\refin
 C:\Users\javier_castro\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
 C:\Users\javier_castro\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\javier_castro\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Javier Castro\source\repos\CSharpPractice\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll

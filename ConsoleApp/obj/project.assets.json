@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\javier_castro\\.nuget\\packages\\": {}
+    "C:\\Users\\Javier Castro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\javier_castro\\source\\repos\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Javier Castro\\source\\repos\\CSharpPractice\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\javier_castro\\source\\repos\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\javier_castro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\javier_castro\\source\\repos\\ConsoleApp\\ConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\Javier Castro\\source\\repos\\CSharpPractice\\ConsoleApp\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Javier Castro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Javier Castro\\source\\repos\\CSharpPractice\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\javier_castro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Javier Castro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
